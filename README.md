@@ -14,7 +14,7 @@
 - Typing Speed Test
 
 🎯 Goal:
-Become a 1data Scientist and secure a top package.
+Become a Data Scientist and secure a top package.
 
 ## Skills
 
