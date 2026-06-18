@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Karthik
 
-<!--
-**karthiknarayanam25/karthiknarayanam25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- DSA 
+- Python
+- Java
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- Attendance Management System
+- Weather App
+- Typing Speed Test
+
+🎯 Goal:
+Become a 1data Scientist and secure a top package.
+
+## Skills
+
+- C
+- Python
+- Java
+- Git
+- GitHub
+
+## Current Focus
+
+- DSA Practice
+- Java OOP
+- Building Projects
