@@ -20,7 +20,6 @@ Become a Data Scientist and secure a top package.
 
 - C
 - Python
-- Java
 - Git
 - GitHub
 
