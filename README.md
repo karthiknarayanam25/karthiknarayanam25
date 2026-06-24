@@ -20,6 +20,7 @@ Become a Data Scientist and secure a top package.
 
 - C
 - Python
+- Excel
 - Git
 - GitHub
 
